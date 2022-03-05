@@ -1,4 +1,4 @@
-# Práctica de labatorio 1.
+# Práctica de labatorio 3.
 
 Discusión de resultados.
 
